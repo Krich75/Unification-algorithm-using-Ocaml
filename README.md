@@ -1,4 +1,4 @@
 # Unification-algorithm-using-Ocaml
 
 
-Le problème est de coder l'algorithme d'unification vu en cours en utilisant le langage Ocaml, l'objectif est de donner un système d’équation et de lui appliquer les quatre cas de algorithme jusqu’à obtenir a la fin une forme résolue de ce système.
+The problem is to code the unification algorithm seen in progress using the Ocaml language, the objective is to give an equation system and to apply the four algorithm cases to it until finally obtaining a resolute form of this system.
